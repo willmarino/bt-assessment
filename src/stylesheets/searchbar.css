@@ -1,0 +1,35 @@
+.searchbar-container{
+  height: 30px;
+}
+
+.searchbar-input{
+  height: 100%;
+  width: 125px;
+
+  box-sizing: border-box;
+  padding: 5px 10px;
+
+  border: 1px solid		#585858;
+  border-radius: 5px;
+  margin-right: 15px;
+
+  background:		#F8F8F8;
+  transition: all .3s;
+}
+.searchbar-input:hover{
+  background: white;
+}
+
+.searchbar-input:focus{
+  border-color: black;
+  background: white;
+}
+
+.searchbar-submit{
+  height: 30px;
+  border: 1px solid	#484848;
+  border-radius: 5px;
+  padding: 2px 5px;
+  box-sizing: border-box;
+  background: white;
+}

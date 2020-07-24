@@ -1,0 +1,19 @@
+.header-container{
+  height: 9vh;
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 10px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #585858;
+
+  background: #F5F5F5;
+}
+
+.home-button{
+  position: absolute;
+
+}
